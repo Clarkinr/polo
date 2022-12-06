@@ -69,7 +69,7 @@ const NavBar = () => {
         className={styles.NavLink}
         activeClassName={styles.Active}
       >
-        <i className="fa-solid fa-arrow-right-to-bracket"></i>Sign up
+        <i className="fa-solid fa-user-plus"></i>Sign up
       </NavLink>
     </>
   );
