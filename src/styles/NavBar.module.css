@@ -3,3 +3,11 @@
     border: 1px solid grey;
     
 }
+
+.NavLink {
+    padding: 5px;
+  }
+  
+  .Active i {
+    color: #2142b2;
+  }
